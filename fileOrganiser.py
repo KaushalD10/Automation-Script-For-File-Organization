@@ -1,16 +1,16 @@
 import os
 import shutil
 
-# Define directories
-download_dir = '/Users/kaushalreddy/Downloads'
-music_dir = '/Users/kaushalreddy/Downloads/Music'
-video_dir = '/Users/kaushalreddy/Videos'
-zip_dir = '/Users/kaushalreddy/Downloads/Zips'
-img_dir = '/Users/kaushalreddy/Downloads/Images'
-doc_dir = '/Users/kaushalreddy/Downloads/Docs'
+# Define directories(Replace Username if on Mac)
+download_dir = '/Users/Username/Downloads'
+music_dir = '/Users/Username/Downloads/Music' 
+video_dir = '/Users/Username/Videos'
+zip_dir = '/Users/Username/Downloads/Zips'
+img_dir = '/Users/Username/Downloads/Images'
+doc_dir = '/Users/Username/Downloads/Docs'
 
 # Directory for miscellaneous files
-misc_dir = '/Users/kaushalreddy/Downloads/Miscellaneous'
+misc_dir = '/Users/Username/Downloads/Miscellaneous'
 
 # Define file extensions
 music_arr = ["mp3", "wav"]
